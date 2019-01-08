@@ -479,6 +479,36 @@ figure.effect-bubba:hover p {
     padding-bottom: 110px;
 }
 
+.bg-img2 {
+    background-image: url('../images/bg-doc.jpg');
+    background-size: cover !important;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.bg-img2 .section-title h2{
+    color: white;
+}
+
+.download {
+    height: 50px;
+    width: 140px;
+    background: burlywood;
+    font-size: 1.5em;
+}
+
+.download:hover {
+    background-color: transparent;
+    border: 1px solid white;
+}
+
+.download a {
+    color: white;
+    line-height: 50px;
+    text-align: center;
+}
+
 .counter-item h2 {
     color: #fff;
     font-size: 60px;
